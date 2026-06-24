@@ -9,14 +9,14 @@ int main()
 {
 	string firstname, lastname, goals, interests, dreams;
 
-	cout << "First and last name? "<< endl;
+	cout << "First and last name? " << endl;
 	cin >> firstname >> lastname;
 	
 	cout << endl;
 	cout << "Beyond this point, replace every space in you response with a underscore or a hyphen. For example, your-response-would-look-something-like-this. " << endl;
-	cout << endl
+	cout << endl;
 
-	cout << "Goals in life? "<< endl;
+	cout << "Goals in life? " << endl;
 	cin >> goals;
 	cout << "Current interests? " << endl;
 	cin >> interests;
